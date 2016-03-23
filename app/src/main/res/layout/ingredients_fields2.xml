@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="0dp">
+
+    <ImageView
+        android:id="@+id/ingredient_remove"
+        android:layout_gravity="center_vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_close_black_24dp"
+        android:onClick="ingredientRemoveClick" />
+    <EditText
+        android:hint="name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:singleLine="true"
+        android:id="@+id/edit_ingredient_title"
+        android:layout_weight="0.5"/>
+
+
+    <EditText
+        android:lines="1"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:hint="metric"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/edit_ingredient_metric"
+        android:layout_weight="0.3"/>
+
+    <EditText
+        android:hint="amt"
+        android:singleLine="true"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/edit_ingredient_amt"
+        android:layout_weight="0.2"/>
+
+</LinearLayout>

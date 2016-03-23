@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/liangbao/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3-05c955dbf60f8122f92a3cd8e06318360494cf7c.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="83e81537012f1975aa902eedbdb8da5aa515aea5">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/androidTest/debug/classes-27c85b481a24f2eec46ec1d42329f9844e4eca5a.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/debug/classes-f6cb1a50ffb3636a62b2f1123ab52c439e226e21.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3-98bf7b69fc4f088acfa53ea7268f5cd5901ffe41.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/debug/classes-652e2e7c4a6889d692ceeef8410b7e13cd745a95.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f607369e68cb756b3f8f523403e3d80433a68aa1">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/androidTest/debug/classes-23f29b9a7d5048183d494e4e9aa872e564e01790.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2-8a69d8d36a6b78ec65f06315df6ac23279e2de64.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/debug/classes-75162f1b3209d9bdc5ac124645f9a5aedfcd2b72.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.4.0/cc174c559b5177982887bf6e1b76003aebad9516/bolts-android-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cc174c559b5177982887bf6e1b76003aebad9516">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/debug/bolts-android-1.4.0-3d12e2ea21b7f5c7e28fcb4e8078ddc96c2000c7.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-ab4d63aaccf386c76c89afbbebddd3ece9dc3b1d.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-9b9061792ef24d90199781c5b51ea3225068be07.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e1d90a3498ab7a4b68ea6e936e71cf7f4e95453f">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/androidTest/debug/classes-ba497e38d2cd2ee9937d59b250d21b7ecb7ac4e8.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12-bd2113c72f0f3d0f1129fb5cbab47f0fb0dd69d1.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/debug/classes-b9e5f8bb5e309f665a17bd39ea132b3db1518629.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1-3fdebf4f6b1cf5697be4e4c3af6e6aa82226543d.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1-0a47871457a5c46afc630ea99f32b250672e1780.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="25a72389e79fbac13f78412a4a6ffacc1cdb0673">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/androidTest/debug/classes-469ad7b4d366e8d76fbed1ba02527ba4c924e93c.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.4.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4805433aedef15e73a7eedf7e3496eb4363a583">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/androidTest/debug/classes-8c7c63ab554a0417acf0d6c8deae36518725c8eb.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1-966b0342ac4d360127c0454d1ba4b62fc24442e2.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3-1c396b74b7a1259594f36c39f86e69dde6b54059.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/debug/parse-android-1.13.0-7e50950c293bcfef227eb7a91f243ddbaa798d65.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-9c55472f1cd69b3b36a784d7bcaa369e61ad6042.jar" />
+    </item>
+    <item
+        jar="/Users/liangbao/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/liangbao/Desktop/CSE110M240T7/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0-f5e8bebd544a6bfbfb601d6403961cc5081b678e.jar" />
+    </item>
+
+</items>

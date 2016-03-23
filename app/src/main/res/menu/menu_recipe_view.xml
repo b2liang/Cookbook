@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".recipes.RecipeListActivity">
+
+    <!-- "Mark Favorite", should appear as action button if possible -->
+    <item
+        android:id="@+id/action_favorited"
+        android:icon="@drawable/ic_favorite_white_24dp"
+        android:title="Unfavorite"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_notfavorited"
+        android:icon="@drawable/ic_favorite_border_white_24dp"
+        android:title="Favorite"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_edit"
+        android:icon="@drawable/ic_edit_white_24dp"
+        android:title="Edit"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_delete"
+        android:icon="@drawable/ic_delete_white_24dp"
+        android:title="Delete"
+        app:showAsAction="ifRoom"/>
+    <!--<item android:id="@+id/action_settings" android:title="@string/action_settings"-->
+    <!--android:orderInCategory="100" app:showAsAction="never"  />-->
+</menu>
